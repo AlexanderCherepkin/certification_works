@@ -1,0 +1,23 @@
+body {
+  max-width: 100%; 
+  padding-top: 10%;
+  background-color: rgba(127, 255, 212, 0.506);
+  
+}
+
+.block {
+  display: flex;max-width: 100%;
+  /* flex-direction: column; */
+  justify-content: space-evenly;
+  justify-self: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.images {
+  max-width: 350px;
+  max-height: 100%;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
